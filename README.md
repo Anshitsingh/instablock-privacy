@@ -36,6 +36,8 @@ Used to communicate protection status and relevant alerts.
 
 **Boot Completed Access**
 
+
+
 Used to resume protection after a device restart.
 
 ## 3. Data Collection and Sharing
